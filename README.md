@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img src="https://files.catbox.moe/jhh8c7.png" alt="glow" border="0">
+    <img src="https://files.catbox.moe/ynqv75.png" alt="glow" border="0">
   </a>
 </div>
 
