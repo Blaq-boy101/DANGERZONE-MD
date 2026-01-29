@@ -87,12 +87,12 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">DANGERZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>DANGERZONE-MD Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/Blaq-boy101/DANGERZONE-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -143,7 +143,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/Blaq-boy101/DANGERZONE-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -175,15 +175,15 @@
 ## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='https://wa.me/+263783546271?text=*HELLO+BLAQ+BOY+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DANGERZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
 ### Join Our Community
-<a href="https://chat.whatsapp.com/H27rbX1EFLEJoQPrQD4WiO">
+<a href="https://chat.whatsapp.com/Bv9shxGY5pIGuOpJdqZlYH?mode=gi_t">
   <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
+<a href="https://whatsapp.com/channel/0029Vb6zh00FcowG8euO480M">
   <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 
