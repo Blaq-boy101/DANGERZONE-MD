@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img src="https://camo.githubusercontent.com/e1e43dbd7ca48f55a44a139eadb3a2da89f529d8dfd2d711cfbaa0781f6c9ea9/68747470733a2f2f66696c65732e636174626f782e6d6f652f6a7164376a782e6a7067" alt="glow" border="0">
+    <img src="https://files.catbox.moe/jhh8c7.png" alt="glow" border="0">
   </a>
 </div>
 
@@ -62,7 +62,7 @@
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="https://github.com/Blaq-boy101/DANHERZONE-MD/fork">
-  <img title="ʙʟᴀǫʙᴏʏ ᴛᴇᴠʜ" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+  <img title="ʙʟᴀǫʙᴏʏ ᴛᴇᴠʜ" src="https://img.shields.io/badge/FORK-DANGERZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
