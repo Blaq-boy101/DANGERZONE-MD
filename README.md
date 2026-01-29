@@ -61,8 +61,8 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/Blaq-boy101/DANHERZONE-MD/fork">
-  <img title="ʙʟᴀǫʙᴏʏ ᴛᴇᴠʜ" src="https://img.shields.io/badge/FORK-DANGERZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+<a href="https://github.com/Blaq-boy101/DANGERZONE-MD/fork">
+  <img title="DANHERZONE-MD" src="https://img.shields.io/badge/FORK-DANGERZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
